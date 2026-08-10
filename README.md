@@ -1,27 +1,23 @@
-# Trilium Solarized Theme
-A [solarized](https://ethanschoonover.com/solarized/) theme for the notetaking app [Trilium](https://github.com/zadam/trilium).
+# Trilium Next Solarized Theme
+A [Solarized](https://ethanschoonover.com/solarized/) theme for the note-taking app [Trilium Next](https://github.com/TriliumNext/Trilium).
 
-![image](https://user-images.githubusercontent.com/49348667/139704397-ce87e550-3011-43ee-9635-6faff85fdfa0.png)
+Modified from [WKSu's version](https://github.com/WKSu/trilium-solarized-theme) to make it work with `#appThemeBase=next` in Trilium Next.
+
+![solarized-dark](./imgs/dark.png)
+
+![solarized-light](./imgs/light.png)
 
 
 ## Installation
-- Copy the contents of the `solarized.css` file into a Trilium note.
-- Change the type of the note to CSS.
-- Add the label `#appTheme=solarized-light` (or `dark`)
+
+### Solarized Light
+- Create a CSS code note in Trilium and name it `solarized-light`
+- Copy the contents of the `solarized-light.css` file into that note.
+- Add labels `#appTheme=solarized-light #appThemeBase=next`
 - Go to options and select this theme 🥳
 
-`solarized.css` applies either the dark or light theme based on a media query.
-
-## Updating the repo
-
-Install sass:
-
-```bash
-sudo npm install -g sass
-```
-
-After changes, rebuild `solarized.css`:
-
-```bash
-sass --no-source-map solarized.scss solarized.css
-```
+### Solarized Dark
+- Create a CSS code note in Trilium and name it `solarized-dark`
+- Copy the contents of the `solarized-dark.css` file into that note.
+- Add labels `#appTheme=solarized-dark #appThemeBase=next`
+- Go to options and select this theme 🥳
