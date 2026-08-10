@@ -55,6 +55,7 @@
   --toast-text-color: #586e75;
   --dropdown-backdrop-filter: blur(20px) saturate(1);
   --peek-button-expand-background-color: #eee8d5;
+  --peek-button-collapse-background-color: #eee8d5;
   --tooltip-foreground-color: #586e75;
   --button-group-active-button-background-color: #859900;
   --tool-dialog-background-color: #eee8d5;
