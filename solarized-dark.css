@@ -59,6 +59,7 @@
   --tooltip-foreground-color: #93a1a1;
   --button-group-active-button-background-color: #859900;
   --tool-dialog-background-color: #073642;
+  --help-background-color: #002b36;
 }
 
 body ::-webkit-calendar-picker-indicator {
