@@ -48,9 +48,9 @@
   --launcher-pane-vert-text-color: #839496;
   --launcher-pane-horiz-background-color: #002b36;
   --launcher-pane-horiz-text-color: #839496;
-  --note-icon-background-color: #002b36;
-  --note-icon-color: #93a1a1;
-  --note-icon-hover-background-color: #073642;
+  --note-icon-background-color: #839496;
+  --note-icon-color: #002b36;
+  --note-icon-hover-background-color: #93a1a1;
   --toast-background: #073642;
   --toast-text-color: #93a1a1;
   --dropdown-backdrop-filter: blur(20px) saturate(1);
