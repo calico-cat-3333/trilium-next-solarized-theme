@@ -60,6 +60,12 @@
   --button-group-active-button-background-color: #859900;
   --tool-dialog-background-color: #073642;
   --help-background-color: #002b36;
+  --fc-forma-foreground: #93a1a1;
+  --fc-forma-background: #002b36;
+  --fc-forma-primary: #93a1a1;
+  --fc-forma-primary-foreground: #002b36;
+  --calendar-coll-event-background-color: #073642;
+  --calendar-coll-event-text-color: #93a1a1;
 }
 
 body ::-webkit-calendar-picker-indicator {
