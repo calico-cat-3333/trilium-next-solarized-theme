@@ -16,7 +16,7 @@
   --primary-button-border-color: #839496;
   --muted-text-color: #839496;
   --input-text-color: #93a1a1;
-  --input-background-color: #073642;
+  --input-background-color: #ffffff12;
   --hover-item-text-color: #93a1a1;
   --hover-item-background-color: #073642;
   --active-item-background-color: #586e75;
@@ -59,7 +59,7 @@
   --tooltip-foreground-color: #93a1a1;
   --button-group-active-button-background-color: #859900;
   --tool-dialog-background-color: #073642;
-  --help-background-color: #002b36;
+  --help-background-color: #073642;
   --fc-forma-foreground: #93a1a1;
   --fc-forma-background: #002b36;
   --fc-forma-primary: #93a1a1;
